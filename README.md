@@ -8,5 +8,5 @@ poikkeamien havainnoinnissa"
 📫 How to reach me: jasmin.kaseva@gmail.com or jaskas@utu.fi
 
 ⚽ I like to watch and play football
-🎮 AndI enjoy other kinds of games and puzzles too
+🎮 And I enjoy other kinds of games and puzzles too
 
