@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jasmin
 
-🔭 I’m currently working on my thesis! "Koneoppimismenetelmät suoratoistodatan
-poikkeamien havainnoinnissa"
+🔭 I’m currently working on my thesis! "Koneoppimispohjaiset AD-menetelmät
+suoratoistodatassa"
 
 🌱 I’m currently learning statistics, digital communication and web development with React.
 
